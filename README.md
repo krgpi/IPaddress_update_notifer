@@ -1,0 +1,2 @@
+# IPaddress_update_notifer
+マシンのグローバルIPアドレスをSlackに返します。
